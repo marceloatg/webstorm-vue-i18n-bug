@@ -1,4 +1,4 @@
-# webstorm-vue-i18n-bug
+# [WEB-60214](https://youtrack.jetbrains.com/issue/WEB-60214/Vue-template-false-positive-error-on-i18n-tc)
 
 ## Problem
 Using the `$tc` method with more than one parameter on template highlights an **Invalid number of arguments, expected 1** error.
