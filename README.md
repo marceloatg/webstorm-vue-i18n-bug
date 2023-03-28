@@ -7,6 +7,8 @@ The same problem does not happen on script.
 
 This project already has the minimum code to reproduce the problem, just open it using WebStorm and check the `App.vue` file.
 
+![image](https://user-images.githubusercontent.com/3721845/228375678-fa651aac-f719-4edf-b878-020fe617bf1b.png)
+
 ## How to reproduce
 1. Create a new project with vite running `npm create vite@latest` selecting vue and typescript
 2. Add vue-i18n as dependency running `npm install vue-i18n@9`
